@@ -1,1 +1,7 @@
-asdasd
+
+primero haga un git pull
+modifique el archivo
+
+git add .
+git commit -m "acá el comentario"
+git push -u origin-master
