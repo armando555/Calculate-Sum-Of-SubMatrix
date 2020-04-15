@@ -21,12 +21,5 @@ def sumItoJ(i,j):
 def generarMatriz():
 	colum = input("Enter the colum size")
 
-
-def generarMatriz():
-	colum = input("Enter the colum size")
-
-
 if __name__=="__main__":
 	generarMatriz()
-
-
